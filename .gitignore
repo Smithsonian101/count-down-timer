@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Node / web tool caches (safe even if you’re not using them yet)
+node_modules/
+dist/
+.build/
+.cache/
+coverage/
+*.log
